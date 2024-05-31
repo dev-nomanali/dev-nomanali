@@ -16,6 +16,7 @@
 - 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **devnomanali@gmaiil.com**
+- ⚡ Fun fact **I enjoy stress of coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
