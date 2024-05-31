@@ -1,5 +1,8 @@
+[![MasterHead] (https://www.linkedin.com/pulse/how-companies-using-javascript-mani-bhargava-banka)
 <h1 align="center">Hi 👋, I'm Yashwant chauhan</h1>
 <h3 align="center">Navigating the Labyrinth of My Tech Stack</h3>
+img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-yashwant&label=Profile%20views&color=0e75b6&style=flat" alt="dev-yashwant" /> </p>
 
