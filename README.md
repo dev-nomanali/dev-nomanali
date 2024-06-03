@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nomanali&label=Profile%20views&color=0e75b6&style=flat" alt="dev-nomanali" /> </p>
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **Full Stack Web Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://google.com](https://google.com)
 
