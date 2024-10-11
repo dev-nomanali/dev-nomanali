@@ -1,37 +1,62 @@
-![MasterHead](https://camo.githubusercontent.com/5b6936efe22f1840c69721e00e5081f90f24b46ecf0b66b22b59e92f2f270120/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e6769663f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c324d344d324d774d44526c4c54457a4e7a41744e4463314e6930344f4755314c5451774e7a466b5a5463354e7a41344f4677765a47646b63546869636930774f574e6a4e32466b4e6931684d4449784c54513359545574596a426c4d4330354d5464694d544a694d475933595463755a326c6d496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e7471524d74452d6232516949326e6e65664e7853444d4a765a43635971466d71326363675f58667a716238)
-<h1 align="center">Hi 👋, I'm Noman Ali</h1>
-<h3 align="center">Navigating the Labyrinth of My Tech Stack</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/966811cabedd03800ed174378c921151f1030f9b2d25acba22c7adffa59f1201/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nomanali&label=Profile%20views&color=0e75b6&style=flat" alt="dev-nomanali" /> </p>
-
-- 🌱 I’m currently learning **Full Stack Web Devlopment**
-
-- 👨‍💻 All of my projects are available at [https://google.com](https://google.com)
-
-- 💬 Ask me about **java script**
-
-- 📫 How to reach me **devnomanali@gmaiil.com**
-- ⚡ Fun fact **I enjoy stress of coding**
-
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/noman-ali-3501ba25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noman-ali-3501ba25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/noman ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noman ali" height="30" width="40" /></a>
-<a href="https://instagram.com/noman_ali_khaan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noman_ali_khaan02" height="30" width="40" /></a>
+# 👋 Hi, I’m @Dev-NomanAli (Noman Ali Khan)
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/dev-nomanali">
+  <img src="https://profile-counter.glitch.me/dev-nomanali/count.svg" />
+  </a>
 </p>
+<a style="" href="https://github.com/dev-nomanali">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+</a>
+👀 I’m interested in coding.<br/>
+🌱 I’m currently learning Web development.<br/>
+💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.<rbr/>
+---
+ :speech_balloon:
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)]-->
+<img src="https://img.shields.io/badge/-Noman-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />
+<img src="https://img.shields.io/badge/dennomanali@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Follow me" />
+<img src="https://img.shields.io/badge/-@noman_ali_khan02_-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />
+<!-- <img src="https://img.shields.io/badge/https://github.com/dev-nomanali style=social" height="32" title="Follow me" /> -->
+</br></br>
+## 💻 Some stats 💻 <br>
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/dev-nomanali">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-NavedAli&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+<a style="" href="https://github.com/dev-nomanali">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-NavedAli&theme=tokyonight&layout=donut-vertical"/>
+</a>
+</div>
+## 👨‍💻 Languages and Tools <br>
+<span>
+  <a href="https://github.com/dev-nomanali">
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    -->
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    -->
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>    -->
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+<!--     <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/material-ui%20-%23F05033.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> -->
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/express.js%20-light.svg?&style=for-the-badge&logo=express&logoColor=white"/> -->
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/tailwind-%2300ADD8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> -->
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/mysql%20-grey.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> -->
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/github%20-white.svg?&style=for-the-badge&logo=git-hub&logoColor=white"/>
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/netlify-purple.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> -->
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/vercel-blue.svg?style=for-the-badge&logo=vercel&logoColor=white"/> -->
+<!-- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/render-yellow.svg?style=for-the-badge&logo=render&logoColor=white"/> -->
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-<h3 align="left">My live projects</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-nomanali" alt="dev-nomanali" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-nomanali&show_icons=true&locale=en&layout=compact" alt="dev-nomanali" />
-  <br><br><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nomanali&" alt="dev-nomanali" /></p>
-
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    -->
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   -->
+<!--  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>    -->
+</a>
+</span>
+<br>
