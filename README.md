@@ -2,7 +2,6 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/dev-nomanali">
   <img src="https://profile-counter.glitch.me/dev-nomanali/count.svg" />
   </a>
 </p>
